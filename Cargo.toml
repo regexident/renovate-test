@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+ra_ap_base_db = "=0.0.226"
+ra_ap_hir = "=0.0.226"
+rand = "=0.5.0"
